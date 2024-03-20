@@ -13,11 +13,12 @@ Based off code found: [https://www.instructables.com/id/Raspberry-Pi-Garage-Door
 Automatic gate opener using a Raspberry Pi 4 to server a website available on local network. 
 
 ### INSTALLATION NOTES: 
-1. Install apache2 and php on your Pi.
-2. Copy the repo to /var/www/html.
-3. Remove /var/www/html/index.html or rename it to index.html.old
-4. Create startup service (covers power outage situation - more to come...) 
-5. Wire to gate controller board
+1. Install Raspberry Pi OS without GUI. 
+2. Install apache2 and php on your Pi.
+3. Copy the repo to /var/www/html.
+4. Remove /var/www/html/index.html or rename it to index.html.old
+5. Create startup service (covers power outage situation - more to come...) 
+6. Wire to gate controller board.
 
 ### WIRING NOTES:
 - GPIO 7
