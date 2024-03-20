@@ -26,4 +26,5 @@ Automatic gate opener using a Raspberry Pi 4 to server a website available on lo
 
 ### ADDITIONAL INFO:
 - no security or auth required (yet)
-- This code will also work for garage door openers. The 2 channel relay can be used to control 2 separate doors. See code modifications: [https://github.com/nwielenga/garageDoorOpener](https://github.com/nwielenga/garageDoorOpener)https://github.com/nwielenga/garageDoorOpener
+- This code will also work for garage door openers.
+- This code cans be modified to control 2 separate doors with the 2 channel relay. See code modifications: [https://github.com/nwielenga/garageDoorOpener](https://github.com/nwielenga/garageDoorOpener)https://github.com/nwielenga/garageDoorOpener
