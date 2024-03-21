@@ -1,7 +1,7 @@
 # GateOpener
 ## Raspberry Pi powered opener for an automatic gate
 
-Based off code found: [https://www.instructables.com/id/Raspberry-Pi-Garage-Door-Opener/ ]
+Based off code found: https://www.instructables.com/id/Raspberry-Pi-Garage-Door-Opener/
 
 ### EQUIPMENT:
 - [Raspberry Pi 4](https://www.amazon.com/Raspberry-Pi-Computer-Suitable-Workstation/dp/B0899VXM8F/ref=sr_1_4?crid=MA0NAXAXJRLZ&dib=eyJ2IjoiMSJ9.mP4drOfyakW9P2E6ytjWi16gj2s3LrQBGuFeMtbTEh_Hjly50dXjFlXs49uF3-y5GZ4yLeWVFpzYzBM4aTzD09t8hNRKRXdhQZcyx6Dso6uzNGeuhoL-ILgjlH_n8UEG5q_0tpNELcWjD_j6vvJxDutGhCpeZ-r4v7t_EALQSB7tt_zJmnWMC6uR6VP3E4LQgysDsC75igcDwxXlxguA1jDL1fqRxvzvOYPwl0Bmcrc.UlYNlN5ZpK4U2Qry1zesMJicmq9ZQ10g_YWa1oNZG80&dib_tag=se&keywords=raspberry+pi+4&qid=1710962317&sprefix=raspberry+pi+4%2Caps%2C154&sr=8-4)
